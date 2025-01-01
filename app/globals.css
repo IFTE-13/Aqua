@@ -24,7 +24,7 @@
   }
 
   .section-title {
-      @apply text-center text-7xl md:text-[54px] md:leading-[60px] font-bold tracking-tighter bg-gradient-to-b from-black to-[#86efac] text-transparent bg-clip-text;
+      @apply text-center text-7xl md:text-[54px] md:leading-[60px] font-bold tracking-tighter bg-gradient-to-b from-black to-[#001e80] text-transparent bg-clip-text;
   }
 
   .section-description {
