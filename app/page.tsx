@@ -3,6 +3,7 @@ import { Hero } from "./components/Hero";
 import { LogoSlider } from "./components/LogoSlider";
 import { Pricing } from "./components/Pricing";
 import { ProductShowcase } from "./components/ProductShowcase";
+import { Testimonials } from "./components/Testimonials";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <LogoSlider />
       <ProductShowcase />
       <Pricing />
+      <Testimonials />
     </>
   );
 }
