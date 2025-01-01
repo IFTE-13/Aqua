@@ -1,4 +1,5 @@
 import { CallToAction } from "./components/CallToAction";
+import { Footer } from "./components/Footer";
 import { Header } from "./components/Header";
 import { Hero } from "./components/Hero";
 import { LogoSlider } from "./components/LogoSlider";
@@ -16,6 +17,7 @@ export default function Home() {
       <Pricing />
       <Testimonials />
       <CallToAction />
+      <Footer />
     </>
   );
 }
